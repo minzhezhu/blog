@@ -22,12 +22,5 @@
       <guid>https://minzhezhu.github.io/blog/about/</guid>
       <description></description>
     </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://minzhezhu.github.io/blog/friend/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
-      <guid>https://minzhezhu.github.io/blog/friend/</guid>
-      <description>&lt;h2 id=&#34;本站信息&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e6%9c%ac%e7%ab%99%e4%bf%a1%e6%81%af&#34;&gt;&lt;/a&gt;&#xA;本站信息&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;站名： 拔剑Sketon&lt;/li&gt;&#xA;&lt;li&gt;站长： 拔剑Sketon&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;申请方法&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e7%94%b3%e8%af%b7%e6%96%b9%e6%b3%95&#34;&gt;&lt;/a&gt;&#xA;申请方法&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;添加本站后，在本页留言，格式如下&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;```yml&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- &lt;span style=&#34;color:#f92672&#34;&gt;name&lt;/span&gt;: &lt;span style=&#34;color:#75715e&#34;&gt;#您的名字&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;url&lt;/span&gt;: &lt;span style=&#34;color:#75715e&#34;&gt;#您的网址&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;desc&lt;/span&gt;: &lt;span style=&#34;color:#75715e&#34;&gt;#简短描述&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#75715e&#34;&gt;#一张图片&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;```&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
   </channel>
 </rss>
