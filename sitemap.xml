@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://minzhezhu.github.io/blog/post/hello/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/archives/</loc>
-    <lastmod>2022-07-26T21:46:25+08:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/post/</loc>
-    <lastmod>2022-07-26T21:46:25+08:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/about/</loc>
-    <lastmod>2022-06-09T20:12:52+08:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/friend/</loc>
-    <lastmod>2022-06-09T20:12:52+08:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://minzhezhu.github.io/blog/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://minzhezhu.github.io/blog/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
