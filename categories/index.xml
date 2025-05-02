@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>日记</title>
+      <link>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>游戏鉴赏</title>
       <link>https://minzhezhu.github.io/blog/categories/%E6%B8%B8%E6%88%8F%E9%89%B4%E8%B5%8F/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
@@ -27,13 +34,6 @@
       <link>https://minzhezhu.github.io/blog/categories/%E6%95%85%E4%BA%8B%E8%A7%A3%E6%9E%90/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://minzhezhu.github.io/blog/categories/%E6%95%85%E4%BA%8B%E8%A7%A3%E6%9E%90/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>日记</title>
-      <link>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</link>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
   </channel>
