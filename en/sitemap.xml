@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minzhezhu.github.io/blog/en/categories/</loc>
+    <loc>https://minzhezhu.github.io/blog-main/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://minzhezhu.github.io/blog/categories/"
+                href="https://minzhezhu.github.io/blog-main/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://minzhezhu.github.io/blog/en/categories/"
+                href="https://minzhezhu.github.io/blog-main/en/categories/"
                 />
   </url><url>
-    <loc>https://minzhezhu.github.io/blog/en/tags/</loc>
+    <loc>https://minzhezhu.github.io/blog-main/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://minzhezhu.github.io/blog/tags/"
+                href="https://minzhezhu.github.io/blog-main/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://minzhezhu.github.io/blog/en/tags/"
+                href="https://minzhezhu.github.io/blog-main/en/tags/"
                 />
   </url><url>
-    <loc>https://minzhezhu.github.io/blog/en/</loc>
+    <loc>https://minzhezhu.github.io/blog-main/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://minzhezhu.github.io/blog/"
+                href="https://minzhezhu.github.io/blog-main/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://minzhezhu.github.io/blog/en/"
+                href="https://minzhezhu.github.io/blog-main/en/"
                 />
   </url>
 </urlset>
