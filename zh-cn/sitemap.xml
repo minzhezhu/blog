@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minzhezhu.github.io/blog/categories/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,27 +15,14 @@
                 href="https://minzhezhu.github.io/blog/categories/"
                 />
   </url><url>
-    <loc>https://minzhezhu.github.io/blog/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://minzhezhu.github.io/blog/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minzhezhu.github.io/blog/"
-                />
+    <loc>https://minzhezhu.github.io/blog/tags/kias/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://minzhezhu.github.io/blog/categories/%E6%AD%8C%E8%AF%8D%E9%89%B4%E8%B5%8F/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/post/%E6%AD%8C%E8%AF%8D%E9%89%B4%E8%B5%8F/%E7%A5%88%E7%A5%B7%E4%B9%8B%E6%AD%8C/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>https://minzhezhu.github.io/blog/post/diary/kias%E6%96%B0%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minzhezhu.github.io/blog/tags/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,13 +34,32 @@
                 href="https://minzhezhu.github.io/blog/tags/"
                 />
   </url><url>
+    <loc>https://minzhezhu.github.io/blog/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://minzhezhu.github.io/blog/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minzhezhu.github.io/blog/"
+                />
+  </url><url>
+    <loc>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://minzhezhu.github.io/blog/categories/%E6%AD%8C%E8%AF%8D%E9%89%B4%E8%B5%8F/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://minzhezhu.github.io/blog/post/%E6%AD%8C%E8%AF%8D%E9%89%B4%E8%B5%8F/%E7%A5%88%E7%A5%B7%E4%B9%8B%E6%AD%8C/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://minzhezhu.github.io/blog/post/diary/%E5%98%89%E5%98%89%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minzhezhu.github.io/blog/tags/%E7%A4%BC%E7%89%A9/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minzhezhu.github.io/blog/post/%E6%B8%B8%E6%88%8F%E9%89%B4%E8%B5%8F/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF/</loc>
