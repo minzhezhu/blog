@@ -30,6 +30,36 @@
 
 
 
+<script>
+  window.goatcounter = {
+    no_onload: true
+  };
+
+  function countGoatCounterPage() {
+    if (
+      window.goatcounter &&
+      typeof window.goatcounter.count === "function"
+    ) {
+      window.goatcounter.count({
+        path: window.location.pathname + window.location.search,
+        title: document.title
+      });
+    }
+  }
+
+  window.addEventListener(
+    "pjax:complete",
+    countGoatCounterPage
+  );
+</script>
+
+<script
+  data-goatcounter="https://minzhezhu.goatcounter.com/count"
+  async
+  src="https://gc.zgo.at/count.js"
+  onload="countGoatCounterPage()"
+></script>
+
 
 
 
@@ -1294,7 +1324,7 @@
         
         
           <img
-            data-src="https://d-sketon.top/img/_backwebp/bg2.webp"
+            data-src="https://d-sketon.top/img/_backwebp/bg26.webp"
             data-sizes="auto"
             alt="Hello World"
             class="lazyload"
