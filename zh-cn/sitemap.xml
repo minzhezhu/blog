@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minzhezhu.github.io/blog/categories/</loc>
-    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,14 @@
                 href="https://minzhezhu.github.io/blog/categories/"
                 />
   </url><url>
+    <loc>https://minzhezhu.github.io/blog/tags/kias/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://minzhezhu.github.io/blog/post/diary/kias%E7%94%9F%E6%B4%BB%E5%92%8C%E5%A4%8D%E6%97%A6%E7%94%9F%E6%B4%BB%E5%AF%B9%E6%AF%94/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://minzhezhu.github.io/blog/tags/</loc>
-    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +35,7 @@
                 />
   </url><url>
     <loc>https://minzhezhu.github.io/blog/</loc>
-    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +48,7 @@
                 />
   </url><url>
     <loc>https://minzhezhu.github.io/blog/categories/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minzhezhu.github.io/blog/tags/%E6%88%91%E7%88%B1%E5%98%89%E5%98%89/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
@@ -55,9 +61,6 @@
   </url><url>
     <loc>https://minzhezhu.github.io/blog/tags/%E7%A4%BC%E7%89%A9/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minzhezhu.github.io/blog/tags/kias/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minzhezhu.github.io/blog/post/diary/kias%E6%96%B0%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
