@@ -853,7 +853,7 @@
         </div>
         
         
-          <meting-js
+          <blog-playlist
             theme="var(--color-link)"
             id="13320438800"
             server="netease"
@@ -868,7 +868,7 @@
             
             
             >
-          </meting-js>
+          </blog-playlist>
         
         
 
@@ -1500,6 +1500,38 @@
   ></script>
 
 
+  <script>
+    if (window.MetingJSElement && !customElements.get("blog-playlist")) {
+      customElements.define("blog-playlist", class extends window.MetingJSElement {
+        
+        _loadPlayer(tracks) {
+          const playlist = tracks.map((track) => {
+            const source = new URL(track.url, document.baseURI);
+            if (source.searchParams.get("server") !== "netease" ||
+                source.searchParams.get("id") !== "22722861") {
+              return track;
+            }
+
+            
+            const mediaUrl = (type, id) => {
+              const url = new URL(source);
+              url.searchParams.set("type", type);
+              url.searchParams.set("id", id);
+              return url.href;
+            };
+            return {
+              name: "Believe Me",
+              artist: track.artist,
+              url: mediaUrl("url", "4919981"),
+              cover: mediaUrl("pic", "6006632022768749"),
+              lrc: mediaUrl("lrc", "4919981"),
+            };
+          });
+          super._loadPlayer(playlist);
+        }
+      });
+    }
+  </script>
 
 
   </body>
